@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\c_code\\ch3_homework\\ch3_homework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|C:\\c_code\\ch3_homework\\source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|C:\\c_code\\ch3_homework\\ch3_homework\\ch3_homework\\5.36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|solutionrelative:ch3_homework\\5.36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|C:\\c_code\\ch3_homework\\ch3_homework\\ch3_homework\\5.34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|solutionrelative:ch3_homework\\5.34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|C:\\c_code\\ch3_homework\\source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD383736-FED3-4B01-84AF-41E308626C73}|ch3_homework\\ch3_homework.vcxproj|C:\\c_code\\ch3_homework\\source\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -64,11 +64,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "5.36.cpp",
               "DocumentMoniker": "C:\\c_code\\ch3_homework\\ch3_homework\\ch3_homework\\5.36.cpp",
               "RelativeDocumentMoniker": "ch3_homework\\5.36.cpp",
@@ -89,12 +89,11 @@
               "RelativeToolTip": "ch3_homework\\5.35.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-11T12:13:58.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T12:13:58.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "5.34.cpp",
               "DocumentMoniker": "C:\\c_code\\ch3_homework\\ch3_homework\\ch3_homework\\5.34.cpp",
               "RelativeDocumentMoniker": "ch3_homework\\5.34.cpp",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "ch3_homework\\5.34.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-10T18:05:10.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T18:05:10.232Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "ch3_homework\\5.29.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-10T12:38:35.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T12:38:35.147Z"
             },
             {
               "$type": "Document",
@@ -128,8 +125,7 @@
               "RelativeToolTip": "ch3_homework\\5.28.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-10T12:26:02.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T12:26:02.472Z"
             },
             {
               "$type": "Document",
@@ -141,8 +137,7 @@
               "RelativeToolTip": "ch3_homework\\27.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-10T12:18:47.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T12:18:47.623Z"
             },
             {
               "$type": "Document",
@@ -166,18 +161,17 @@
               "RelativeToolTip": "..\\source\\Header.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-09T13:15:33.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T13:15:33.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\c_code\\ch3_homework\\source\\Main.cpp",
               "RelativeDocumentMoniker": "..\\source\\Main.cpp",
               "ToolTip": "C:\\c_code\\ch3_homework\\source\\Main.cpp",
               "RelativeToolTip": "..\\source\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T13:08:42.856Z",
               "EditorCaption": ""
